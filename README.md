@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/70204047/129378227-9fe9017a-98d6-4270-bec3-8a0310fc6c4b.gif" width=80%>
+<img src="https://miro.medium.com/v2/resize:fit:1000/1*ZXQifyIny_o2bFmz1BBz3A.gif" width=80%>
 
 ## 👋 Hello World!
 
